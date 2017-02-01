@@ -1,6 +1,6 @@
 # Practice : tweak a Zeppelin environment and test Spark
 
-This is a fork from [arjones/vagrant-spark-zeppelin](https://github.com/arjones/vagrant-spark-zeppelin), that we are going to use for educational purposes.
+This is dgshgshghgdhhsdyuhjjjjjjjjjjjjjjjjjjjjjjjjsssssssssssssssssssssssssssssssssssssssssa fork from [arjones/vagrant-spark-zeppelin](https://github.com/arjones/vagrant-spark-zeppelin), that we are going to use for educational purposes.
 
 It provides a Vagrantfile which installs a debian virtual machine containing:
 
